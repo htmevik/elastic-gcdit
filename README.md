@@ -56,3 +56,6 @@ Now you can play around with the data in Kibana. Go to **Visualize** where you c
 # Assignments
 
 You are now all set up to create visualisations that will help you find answers to [the assignments!](https://github.com/htmevik/elastic-gcdit/blob/master/tasks.md)
+
+### Visualisation Inspiration
+Selecting the correct way to display your data can be quite challenging. Check out [this link](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png) for some hints on graphs suitable for visualising many different data relationships.
