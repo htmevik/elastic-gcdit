@@ -1,30 +1,31 @@
 # Traffic accidents tasks
 
-1. **Which year had the most injuries?**
-	* Which month do people crash the most?
+**For every task, please save the resulting visualization**
 
-2. **How old was the oldest driver?** 
+1. **Use “Vertical bar” to find which year injuries were at it's highest**
+
+2. **Use “Line” to find the age of the oldest driver** 
 	* Why is this most likely not correct? Do you have possible explanation?
 
-3. **Create a visualisation showing the average vehicle age grouped by year of the accident**
-	* Save the visualization and add it to the dashboard
+3. **Use “Vertical bar” to show the average vehicle age grouped by year**
+	* Which year had the highest average of vehicle age?
 
-4. **Create a vertical bar chart showing sum of injuries grouped by year**
-	* Compare it against average injuries grouped by year. What does this difference indicate?
-	* Save the visualization and add it to the dashboard
+4. **Use “Vertical bar” to compare the average driver age with average injured by year**
+	* (Here you will need two y-axises, which can be added in the “Metrics and Axis” tab)* 
+	*What does the trend indicate?*
 
-5. **What is the percentage of male drivers?**
+5. **Use “Pie” to find the percentage of the different genders?**
 
-6. **How many men have crashed in a roundabout on a Monday between 08.00-08.59?**
+6. **Use “Tag cloud” to show the count of different surface conditions?**
 
-7. **Create a tag cloud showing the count of surface conditions**
-	* Save the visualization and add it to the dashboard
+7. **Use “Pie” to find the sum of seriously injured grouped by speed limit**
 
-8. **Find the sum of seriously injured grouped by speed limit**
-	* Compare this with count of accidents grouped by speed limit
+8. **Use a coordinate map to look at the count of accidents by location**
 
-9. **Bonus: Find the accident of Petter Northug in discover**
+9.**Go "Dashboard" and create a dashboard**
+*Add your visualizations to the dashboard*
+*Clik on a visualization (for example one of the genders in the pie chart) and see how thet filtering affects the rest of the visualizations*
 
-When you have finished all the tasks, try to create more visualizations and add it to the dashboard. Click on a visualization (for example the male drivers in the pie chart), and see how the rest of the visualizations are filtered. 
+**Bonus 1: Create several visualizations and add to the dashboard*
 
-If you like to write queries directly to Elasticsearch, you can do that through the console on **Dev Tools**
+**Bonus 2: Find the accident of Petter Northug in discover**
