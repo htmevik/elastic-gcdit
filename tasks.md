@@ -22,10 +22,10 @@
 
 8. **Use a coordinate map to look at the count of accidents by location**
 
-9.**Go "Dashboard" and create a dashboard**
-*Add your visualizations to the dashboard*
-*Clik on a visualization (for example one of the genders in the pie chart) and see how thet filtering affects the rest of the visualizations*
+9. **Go "Dashboard" and create a dashboard**
+	* Add your visualizations to the dashboard
+	* Clik on a visualization (for example one of the genders in the pie chart) and see how thet filtering affects the rest of the visualizations
 
-**Bonus 1: Create several visualizations and add to the dashboard*
+**Bonus 1: Create several visualizations and add to the dashboard**
 
 **Bonus 2: Find the accident of Petter Northug in discover**
